@@ -1,5 +1,3 @@
-export { getArgs };
-
 const getArgs = (args) => {
 	const res = {};
 	const [executer, file, ...rest] = args;
@@ -15,4 +13,6 @@ const getArgs = (args) => {
 		}
 	});
 	return res;
-}; 
+};
+
+export { getArgs };
