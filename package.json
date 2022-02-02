@@ -1,5 +1,5 @@
 {
-	"name": "weather-cli",
+	"name": "weather-cli-in5lux",
 	"version": "1.0.0",
 	"description": "CLI for getting weather",
 	"main": "weather.js",
@@ -17,13 +17,13 @@
 	],
 	"author": "In5lux",
 	"license": "ISC",
-	"homepage": "https://purpleschool.ru",
+	"homepage": "https://github.com/In5lux",
 	"repository": {
 		"type": "git",
-		"url": "https://purpleschool.ru"
+		"url": "https://github.com/In5lux/CLI-Weather-nodejs"
 	},
 	"bugs": {
-		"url": "https://purpleschool.ru",
+		"url": "https://github.com/In5lux/CLI-Weather-nodejs",
 		"email": "in5lux@gmail.com"
 	},
 	"dependencies": {
